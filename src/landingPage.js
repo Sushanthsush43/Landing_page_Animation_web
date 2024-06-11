@@ -25,7 +25,7 @@ function LandingPage() {
         <div className="content-center">
           <Container>
             <div className="title-brand">
-              <h1 className="presentation-title">Paper Kit React</h1>
+              <h1 className="presentation-title">Sushanth Sherigar</h1>
               <div className="fog-low">
                 <img alt="..." src="/assets/fog-low.png" />
               </div>
@@ -45,7 +45,7 @@ function LandingPage() {
           }}
         />
         <h6 className="category category-absolute">
-          Designed and coded by{" "}
+          Designed and coded by{"Sushanth"}
           <a
             href="https://www.creative-tim.com?ref=pkr-index-page"
             target="_blank"
