@@ -25,7 +25,7 @@ function LandingPage() {
         <div className="content-center">
           <Container>
             <div className="title-brand">
-              <h1 className="presentation-title">Sushanth sush sherigar</h1>
+              <h1 className="presentation-title">Sushanth sherigar</h1>
               <div className="fog-low">
                 <img alt="..." src="/assets/fog-low.png" />
               </div>
@@ -34,7 +34,7 @@ function LandingPage() {
               </div>
             </div>
             <h2 className="presentation-subtitle text-center">
-              Make your mark with a ReactJS Bootstrap (Reactstrap) 
+             Empower your digital journey with seamless efficiency. #NextGenSoftware
             </h2>
           </Container>
         </div>
